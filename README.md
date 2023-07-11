@@ -15,3 +15,5 @@ Clone the repository and navigate to the project directory. Install dependencies
 `npm install cors` - Enable Cross-Origin Resource Sharing (CORS)
 
 `npm install uuid` - Generate random unique ID
+
+`npm install morgan` - HTTP request logger middleware for Node.js
